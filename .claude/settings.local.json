@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -oP \"$\\\\\\(''''[a-z0-9_-]+''''\\\\\\)\" js/game.js)"
+    ]
+  }
+}
